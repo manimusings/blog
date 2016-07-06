@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Scratch/Scratch.iml" filepath="$PROJECT_DIR$/../Scratch/Scratch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../careercup/careercup.iml" filepath="$PROJECT_DIR$/../careercup/careercup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/perfecting-the-hash.iml" filepath="$PROJECT_DIR$/perfecting-the-hash.iml" />
+    </modules>
+  </component>
+</project>
